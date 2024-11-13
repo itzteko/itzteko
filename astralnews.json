@@ -1,0 +1,22 @@
+{
+  "POST1": {
+    "title": "read this (WHAT)",
+    "date": "12-Nov-2024",
+    "body": "test skibidi toilet",
+    "author": "itzteko",
+    "tags": [TEST],
+    "images": {
+      "background": "test"
+    }
+  }
+    "POST2": {
+    "title": "read this (WHAT)",
+    "date": "12-Nov-2024",
+    "body": "test skibidi toilet",
+    "author": "itzteko",
+    "tags": [TEST],
+    "images": {
+      "background": "test"
+    }
+  }
+}
